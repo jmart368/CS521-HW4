@@ -42,4 +42,6 @@ def matrix_calculation():
 
 
 if __name__=="__main__":
+    sum_column()
+    matrix_calculation()
     
