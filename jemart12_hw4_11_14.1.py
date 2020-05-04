@@ -1,7 +1,4 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: February 15, 2020
 Homework Problem # 14.1
 Description: Count keywords from an existing file
 """
